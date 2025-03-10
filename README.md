@@ -3,7 +3,7 @@
 ---
 
 ### **1. Mô tả bài test**
-Bài test dành cho ứng viên frontend nhằm đánh giá kỹ năng lắp trình Web2 & Web3, bao gồm:
+Bài test dành cho ứng viên frontend nhằm đánh giá kỹ năng lập trình Web2 & Web3, bao gồm:
 - Xây dựng UI theo thiết kế cho Web2.
 - Kết nối API backend.
 - Tương tác với MetaMask và blockchain.
